@@ -22,3 +22,13 @@ for (int i = 0; i < 10; ++i)//（'0' - '9'）-->（0 - 9）
 	char ch = '0' + i;
 	cout << (ch^48) << endl;
 }
+
+三种求两数平均值的方法(left>right)(left,right没有正负要求)
+（1）mid = left + ((right-left)>>1)
+（2）mid = (left+right)>>1;
+（3）mid = (left&right)+((left^right)>>1)
+
+当需要该表链表的内容时，需要传入
+（1）一级指针引用
+（2）二级指针
+来确保该表的不是临时指针变量的指向，而是链表头结点的指向。
