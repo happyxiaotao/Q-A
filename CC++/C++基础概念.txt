@@ -25,3 +25,7 @@ __stdcall ºÜ¶àÊ±ºò±»³ÆÎª pascal µ÷ÓÃÔ¼¶¨¡£pascal ÓïÑÔÊÇÔçÆÚºÜ³£¼ûµÄÒ»ÖÖ½ÌÑ§ÓÃ¼ÆË
 £¨2£©²ÎÊý°´ÕÕ´ÓÓÒÖÁ×óµÄ·½Ê½ÈëÕ»¡£
 £¨3£©Èç¹û²ÎÊýÈ·¶¨£¬this Ö¸Õë´æ·ÅÓÚ ECX ¼Ä´æÆ÷£¬º¯Êý×ÔÉíÇåÀí¶ÑÕ»£»
 £¨4£©Èç¹û²ÎÊý²»È·¶¨£¬thisÖ¸ÕëÔÚËùÓÐ²ÎÊýÈëÕ»ºóÔÙÈëÕ»£¬µ÷ÓÃÕßÇåÀíÕ»¡£
+
+
+Q£º½«½âÒ»ÏÂnew operator¡¢operator new Óë ¶¨Î»new±í´ïÊ½µÄÇø±ð
+A£º
