@@ -28,4 +28,4 @@ __stdcall ºÜ¶àÊ±ºò±»³ÆÎª pascal µ÷ÓÃÔ¼¶¨¡£pascal ÓïÑÔÊÇÔçÆÚºÜ³£¼ûµÄÒ»ÖÖ½ÌÑ§ÓÃ¼ÆË
 
 
 Q£º½«½âÒ»ÏÂnew operator¡¢operator new Óë ¶¨Î»new±í´ïÊ½µÄÇø±ð
-A£º
+A£ºÎÒÃÇÒ»°ãÊ¹ÓÃnewÔËËã·û£¬À´´´½¨Ò»¸ö¶ÔÏó¡£ÔÚÊ¹ÓÃÊ±Ê¹ÓÃnew operator
